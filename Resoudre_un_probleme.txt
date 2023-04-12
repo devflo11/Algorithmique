@@ -1,0 +1,37 @@
+
+Le but d'un algorithme est de réfléchir sur la logique d'un programme en oubliant les règles de syntaxe d'un langage. 
+Une fois un algorithme écrit, il ne reste plus qu'à la traduire dans le langage de programmation souhaité. Cette traduction
+ ne demande aucune réflexion particulière.
+
+ **Il n’y a jamais de solution unique à un problème donné !**
+
+ algorithme nomDuProgramme
+
+// déclarations des variables
+nomVariable : typeVariable (Entier, réel, chaine..)
+
+//Initialisation des variables
+
+debut
+
+// instructions
+...
+fin
+
+***COMMENT RESOUDRE UN PROBLEME***
+
+1.Bien lire et comprendre l'énoncé et Reformuler le problême dans vos mots
+ - Si on ne comprendre pas l'énoncé (ex: calculer la suite de Fibonacci) 
+ - Rechercher sur le web pour comprendre son fonctionnement
+
+2.Décomposer le problème en plusieurs sous problèmes
+ - Chaque sous-problème doit être résolé de la façon la plus optimisé possible
+
+3.Ecrire l'algorithme
+
+
+4. Coder l'algorithme dans le langage le plus approprié 
+
+
+Nota : si l'algo est une représentation graphique, il faut dessiner la 
+représentation et ensuite écrire l'algo.
