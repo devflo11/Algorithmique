@@ -1,0 +1,8 @@
+Le principe : le programme arrive sur la ligne du TantQue. 
+Il examine alors la valeur du booléen (une variable booléenne ou une condition). 
+Si cette valeur est VRAI, le programme exécute les instructions qui suivent, 
+jusqu’à ce qu’il rencontre la ligne FinTantQue. Il retourne ensuite sur la ligne 
+du TantQue, procède au même examen, et ainsi de suite jusqu'à lorsque le booléen 
+prend la valeur FAUX.
+
+

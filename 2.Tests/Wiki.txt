@@ -1,0 +1,26 @@
+Les structures alternatives
+...........................
+
+Une condition est une expression logique contenant une ou plusieurs variables et/ou
+valeurs ainsi que des opérateurs arithmétiques et/ou logiques. Quel que soit le contenu
+de la condition, son résultat doit être de type booléen.
+
+Opérateurs logiques
+....................
+
+et  :   les 2 conditions doivent être vraies
+ou  :   il suffit que l'une des 2 conditions soit vraie
+non :   donne le contraire de la condition
+()  :   ordonne les conditions (indispensable à partir de 3 conditions)
+=   :   égalité entre 2 expressions
+<>  :   différence
+<   :   inférieur strictement
+>   :   supérieur strictement
+<=  :   inférieur ou égal
+>=  :   supérieur ou égal
+
+Tout ce qui s’exprime par un ET peut aussi être exprimé par un OU. (Cette règle porte le nom de transformation de Morgan)
+
+Dans une condition composée employant à la fois des opérateurs ET et des opérateurs OU,
+la présence de parenthèses possède une influence sur le résultat.
+

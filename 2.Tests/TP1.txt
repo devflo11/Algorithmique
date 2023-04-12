@@ -1,0 +1,28 @@
+Écrire l'algorithme qui permet de saisir un âge et d'afficher "majeur" si la personne
+a au moins 18 ans, "mineur" si la personne n'a pas atteint cet âge
+
+
+Demander à l'utilsateur de saisir un nombre entier pour l'âge
+Si le nombre entré est > à 18, afficher le message "Majeur"
+Si le nombre entré est < à 18, afficher le message "Mineur"
+
+algorithme age
+
+//Déclaration variable
+age : entier
+
+//initialisation 
+age <- 0
+
+DEBUT
+
+AFFICHER "Entrer un age"
+SAISIR age
+
+SI age >= 18 ALORS
+AFFICHER "Majeur"
+SINON
+AFFICHER "Mineur"
+FINSI
+
+FIN
